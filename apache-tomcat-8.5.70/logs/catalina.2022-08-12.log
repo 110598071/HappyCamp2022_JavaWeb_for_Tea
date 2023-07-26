@@ -1,0 +1,224 @@
+12-Aug-2022 14:37:23.063 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.70
+12-Aug-2022 14:37:23.073 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 9 2021 16:17:14 UTC
+12-Aug-2022 14:37:23.074 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.70.0
+12-Aug-2022 14:37:23.074 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+12-Aug-2022 14:37:23.074 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Aug-2022 14:37:23.074 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Aug-2022 14:37:23.075 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.302-1\jre
+12-Aug-2022 14:37:23.075 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b08
+12-Aug-2022 14:37:23.075 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            ojdkbuild
+12-Aug-2022 14:37:23.075 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:37:23.075 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:37:23.076 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\conf\logging.properties
+12-Aug-2022 14:37:23.077 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Aug-2022 14:37:23.078 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Aug-2022 14:37:23.079 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Aug-2022 14:37:23.080 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Aug-2022 14:37:23.081 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:37:23.120 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:37:23.123 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\temp
+12-Aug-2022 14:37:23.125 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+12-Aug-2022 14:37:23.126 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+12-Aug-2022 14:37:23.127 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Aug-2022 14:37:23.138 資訊 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+12-Aug-2022 14:37:23.471 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Aug-2022 14:37:23.685 資訊 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Aug-2022 14:37:23.711 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1403 ms
+12-Aug-2022 14:37:23.770 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Aug-2022 14:37:23.773 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.70]
+12-Aug-2022 14:37:23.800 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\webapps\HappyCamp.war]
+12-Aug-2022 14:37:24.749 警告 [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+12-Aug-2022 14:37:25.315 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Aug-2022 14:37:25.387 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\webapps\HappyCamp.war] has finished in [1,586] ms
+12-Aug-2022 14:37:25.397 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Aug-2022 14:37:25.417 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 1704 ms
+12-Aug-2022 14:39:36.610 嚴重 [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005]. Tomcat may not be running.
+12-Aug-2022 14:39:36.627 嚴重 [main] org.apache.catalina.startup.Catalina.stopServer Catalina.stop: 
+	java.net.ConnectException: Connection refused: connect
+		at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+		at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+		at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+		at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+		at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+		at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+		at java.net.Socket.connect(Socket.java:607)
+		at java.net.Socket.connect(Socket.java:556)
+		at java.net.Socket.<init>(Socket.java:452)
+		at java.net.Socket.<init>(Socket.java:229)
+		at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:504)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:391)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:481)
+12-Aug-2022 14:40:07.454 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.70
+12-Aug-2022 14:40:07.461 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 9 2021 16:17:14 UTC
+12-Aug-2022 14:40:07.461 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.70.0
+12-Aug-2022 14:40:07.461 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+12-Aug-2022 14:40:07.462 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Aug-2022 14:40:07.462 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Aug-2022 14:40:07.462 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.302-1\jre
+12-Aug-2022 14:40:07.462 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b08
+12-Aug-2022 14:40:07.463 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            ojdkbuild
+12-Aug-2022 14:40:07.463 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:40:07.463 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:40:07.464 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\conf\logging.properties
+12-Aug-2022 14:40:07.465 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Aug-2022 14:40:07.466 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Aug-2022 14:40:07.467 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Aug-2022 14:40:07.468 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Aug-2022 14:40:07.469 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:40:07.506 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:40:07.509 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\temp
+12-Aug-2022 14:40:07.511 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+12-Aug-2022 14:40:07.512 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+12-Aug-2022 14:40:07.513 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Aug-2022 14:40:07.528 資訊 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+12-Aug-2022 14:40:07.776 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Aug-2022 14:40:08.002 資訊 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Aug-2022 14:40:08.028 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1185 ms
+12-Aug-2022 14:40:08.071 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Aug-2022 14:40:08.074 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.70]
+12-Aug-2022 14:40:08.100 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\webapps\HappyCamp.war]
+12-Aug-2022 14:40:09.067 警告 [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+12-Aug-2022 14:40:09.638 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Aug-2022 14:40:09.711 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\webapps\HappyCamp.war] has finished in [1,610] ms
+12-Aug-2022 14:40:09.717 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Aug-2022 14:40:09.731 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 1702 ms
+12-Aug-2022 14:41:20.364 資訊 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/HappyCamp]
+12-Aug-2022 14:41:33.734 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.70
+12-Aug-2022 14:41:33.739 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 9 2021 16:17:14 UTC
+12-Aug-2022 14:41:33.740 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.70.0
+12-Aug-2022 14:41:33.740 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+12-Aug-2022 14:41:33.740 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Aug-2022 14:41:33.740 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Aug-2022 14:41:33.741 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.302-1\jre
+12-Aug-2022 14:41:33.741 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b08
+12-Aug-2022 14:41:33.741 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            ojdkbuild
+12-Aug-2022 14:41:33.741 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:41:33.742 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:41:33.743 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\conf\logging.properties
+12-Aug-2022 14:41:33.744 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Aug-2022 14:41:33.745 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Aug-2022 14:41:33.747 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Aug-2022 14:41:33.749 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Aug-2022 14:41:33.750 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:41:33.788 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:41:33.791 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\temp
+12-Aug-2022 14:41:33.794 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+12-Aug-2022 14:41:33.798 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+12-Aug-2022 14:41:33.799 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Aug-2022 14:41:33.809 資訊 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+12-Aug-2022 14:41:34.149 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Aug-2022 14:41:34.170 嚴重 [main] org.apache.catalina.core.StandardService.initInternal Failed to initialize connector [Connector[HTTP/1.1-8080]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1076)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:552)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:843)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:136)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:639)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:662)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:305)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+	Caused by: java.net.BindException: Address already in use: bind
+		at sun.nio.ch.Net.bind0(Native Method)
+		at sun.nio.ch.Net.bind(Net.java:461)
+		at sun.nio.ch.Net.bind(Net.java:453)
+		at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+		at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:85)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:221)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1147)
+		at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:222)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:599)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:80)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1074)
+		... 13 more
+12-Aug-2022 14:41:34.173 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1105 ms
+12-Aug-2022 14:41:34.270 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Aug-2022 14:41:34.272 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.70]
+12-Aug-2022 14:41:34.302 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\webapps\HappyCamp.war]
+12-Aug-2022 14:41:35.247 警告 [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+12-Aug-2022 14:41:40.240 嚴重 [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005]. Tomcat may not be running.
+12-Aug-2022 14:41:40.247 嚴重 [main] org.apache.catalina.startup.Catalina.stopServer Catalina.stop: 
+	java.net.ConnectException: Connection refused: connect
+		at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+		at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+		at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+		at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+		at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+		at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+		at java.net.Socket.connect(Socket.java:607)
+		at java.net.Socket.connect(Socket.java:556)
+		at java.net.Socket.<init>(Socket.java:452)
+		at java.net.Socket.<init>(Socket.java:229)
+		at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:504)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:391)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:481)
+12-Aug-2022 14:41:42.613 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.70
+12-Aug-2022 14:41:42.620 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 9 2021 16:17:14 UTC
+12-Aug-2022 14:41:42.621 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.70.0
+12-Aug-2022 14:41:42.621 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+12-Aug-2022 14:41:42.621 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Aug-2022 14:41:42.622 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Aug-2022 14:41:42.622 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.302-1\jre
+12-Aug-2022 14:41:42.622 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_302-b08
+12-Aug-2022 14:41:42.622 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            ojdkbuild
+12-Aug-2022 14:41:42.623 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:41:42.623 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:41:42.625 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\conf\logging.properties
+12-Aug-2022 14:41:42.628 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Aug-2022 14:41:42.629 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Aug-2022 14:41:42.631 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Aug-2022 14:41:42.632 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Aug-2022 14:41:42.644 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:41:42.671 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70
+12-Aug-2022 14:41:42.673 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\temp
+12-Aug-2022 14:41:42.674 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+12-Aug-2022 14:41:42.676 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+12-Aug-2022 14:41:42.677 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Aug-2022 14:41:42.687 資訊 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+12-Aug-2022 14:41:42.937 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Aug-2022 14:41:43.180 資訊 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Aug-2022 14:41:43.194 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1188 ms
+12-Aug-2022 14:41:43.237 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Aug-2022 14:41:43.240 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.70]
+12-Aug-2022 14:41:43.262 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\webapps\HappyCamp.war]
+12-Aug-2022 14:41:43.437 警告 [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [4.0]. Default version will be used.
+12-Aug-2022 14:41:44.007 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Aug-2022 14:41:44.074 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [E:\Education\快樂營\happycamp2022\apache-tomcat-8.5.70\webapps\HappyCamp.war] has finished in [811] ms
+12-Aug-2022 14:41:44.080 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Aug-2022 14:41:44.094 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 898 ms
+12-Aug-2022 14:42:24.809 嚴重 [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005]. Tomcat may not be running.
+12-Aug-2022 14:42:24.813 嚴重 [main] org.apache.catalina.startup.Catalina.stopServer Catalina.stop: 
+	java.net.ConnectException: Connection refused: connect
+		at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+		at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+		at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+		at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+		at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+		at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+		at java.net.Socket.connect(Socket.java:607)
+		at java.net.Socket.connect(Socket.java:556)
+		at java.net.Socket.<init>(Socket.java:452)
+		at java.net.Socket.<init>(Socket.java:229)
+		at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:504)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:391)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:481)

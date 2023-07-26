@@ -1,0 +1,66 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.loginDiv table{
+    margin: 80px auto 0 auto;
+    width: 40%;
+    border-collapse: collapse;
+}
+
+.loginDiv table td {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.tableTitleTd {
+    font-family: "Comic Sans MS", serif;
+    font-size: 250%;
+    text-align: center;
+    color: mediumseagreen;
+}
+
+.tableTitleTr {
+    border-bottom: cadetblue solid 3px;
+}
+
+.firstColumn {
+    font-family: "Comic Sans MS", serif;
+    font-size: 200%;
+    text-align: right;
+    padding-right: 10px;
+    letter-spacing: 3px;
+    color: mediumseagreen;
+}
+
+.buttonColumn, .secondColumn {
+    text-align: right;
+}
+
+.tableButton {
+    font-size: 150%;
+    border-radius: 20px;
+    width: 25%;
+    border: cadetblue solid 2px;
+    color: darkcyan;
+}
+
+.tableButton:hover {
+    background-color: rgba(175, 238, 238);
+}
+
+.tableInput {
+    font-size: 150%;
+    border-radius: 20px;
+    border: cadetblue solid 2px;
+    padding-left: 15px;
+    width: 90%;
+}
+
+.errorMsgRow {
+    text-align: right;
+    font-size: 150%;
+    font-family: "Comic Sans MS", serif;
+    color: crimson;
+}

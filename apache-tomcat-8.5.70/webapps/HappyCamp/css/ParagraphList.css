@@ -1,0 +1,156 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.actionContainer {
+    width: 93%;
+    margin: 50px auto 0 auto;
+}
+
+.actionContainer select {
+    font-size: 180%;
+    width: 40%;
+    border-radius: 20px;
+    border: cadetblue solid 2px;
+    padding-left: 8px;
+}
+
+.categoryFilterTd span span{
+    font-size: 180%;
+    font-family: "Comic Sans MS", serif;
+    letter-spacing: 3px;
+}
+
+.categoryFilterTd span button {
+    font-size: 180%;
+    font-family: "Comic Sans MS", serif;
+    letter-spacing: 3px;
+    border: none;
+    background-color: white;
+}
+
+.categoryFilterTd span button:hover {
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+.addParagraphAndSearchFilter {
+    text-align: right;
+}
+
+.addParagraphAndSearchFilter button {
+    font-size: 150%;
+    border-radius: 20px;
+    width: 20%;
+    border: cadetblue solid 2px;
+    margin-right: 30px;
+}
+
+.addParagraphAndSearchFilter button:hover {
+    background-color: rgba(175, 238, 238);
+}
+
+.addParagraphAndSearchFilter input {
+    font-size: 150%;
+    border-radius: 20px;
+    border: cadetblue solid 2px;
+    padding-left: 15px;
+}
+
+.actionTable {
+    width: 100%;
+    border-bottom: cadetblue solid 2px;
+    padding-bottom: 10px;
+}
+
+.nameSearchDiv {
+    font-size: 170%;
+    font-family: "Comic Sans MS", serif;
+    letter-spacing: 4px;
+    color: grey;
+    width: 92%;
+    margin: 10px auto 0 auto;
+}
+
+.nameSearchDiv span {
+    color: mediumseagreen;
+}
+/*=======================================*/
+.paragraphListContainer {
+    padding: 10px;
+}
+
+.paragraphListTable {
+    border-collapse: collapse;
+    width: 95%;
+    margin: 10px auto 20px auto;
+}
+
+.paragraphListTable td {
+    padding: 20px;
+}
+
+.paragraphFirstRow {
+    font-size: 150%;
+    font-family: "Comic Sans MS", serif;
+    color: saddlebrown;
+    letter-spacing: 3px;
+    border-bottom: darkseagreen solid 3px;
+    font-weight: bold;
+}
+
+.paragraphRow {
+    border-bottom: darkseagreen solid 3px;
+}
+
+.dateTd, .categoryTd {
+    font-size: 150%;
+    font-family: "Comic Sans MS", serif;
+}
+
+.modifyButton, .deleteButton {
+    text-align: center;
+}
+
+.titleTd input {
+    font-size: 160%;
+    font-family: "Comic Sans MS", serif;
+    border: none;
+    background-color: white;
+    letter-spacing: 3px;
+}
+
+.titleTd input:hover {
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+.modifyButton input, .deleteButton button {
+    font-family: "Comic Sans MS", serif;
+    font-size: 100%;
+    border-radius: 20px;
+    width: 70%;
+    border: cadetblue solid 2px;
+    padding: 5px;
+    color: grey;
+}
+
+.modifyButton input:hover {
+    background-color: rgba(175, 238, 238);
+}
+
+.deleteButton button:hover {
+    background-color: rgba(165, 42, 42, 0.5);
+}
+
+.NotFound {
+    font-size: 200%;
+    color: crimson;
+    font-family: "Comic Sans MS", serif;
+    letter-spacing: 7px;
+}
+
+.NotFound td {
+    padding-top: 50px;
+}

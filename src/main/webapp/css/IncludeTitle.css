@@ -1,0 +1,36 @@
+.logoutDiv {
+    width: 88%;
+    margin: 20px auto;
+    text-align: right;
+}
+
+.logoutDiv span {
+    font-family: "Comic Sans MS", serif;
+    font-size: 150%;
+    letter-spacing: 3px;
+    margin-right: 8px;
+    color: darkgray;
+}
+
+.logoutDiv button {
+    font-size: 150%;
+    border-radius: 20px;
+    width: 10%;
+    border: rgba(18, 116, 54, 0.4) solid 2px;
+    color: darkgray;
+    /*transform: translateY(40px);*/
+}
+
+.logoutDiv button:hover {
+    background-color: rgba(176, 224, 230, 0.6);
+}
+
+.webTitle {
+    text-align: center;
+    border-bottom: cadetblue solid 5px;
+}
+
+.webTitle span {
+    font-family: Bookman Old Style, serif;
+    font-size: 300%;
+}

@@ -1,0 +1,10 @@
+.webTitle {
+    text-align: center;
+    border-bottom: cadetblue solid 5px;
+    margin: 50px auto 30px auto;
+}
+
+.webTitle span {
+    font-family: Bookman Old Style, serif;
+    font-size: 300%;
+}

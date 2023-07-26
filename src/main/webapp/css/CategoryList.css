@@ -1,0 +1,71 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.actionContainer {
+    width: 100%;
+    margin: 20px auto;
+}
+
+.actionContainer button {
+    font-size: 150%;
+    border-radius: 20px;
+    width: 12%;
+    border: cadetblue solid 2px;
+}
+
+.actionContainer button:hover {
+    background-color: rgba(175, 238, 238);
+}
+
+.actionContainer input {
+    font-size: 150%;
+    border-radius: 20px;
+    border: cadetblue solid 2px;
+    padding-left: 15px;
+}
+
+.addCategoryButton {
+    margin-right: 25px;
+}
+
+.categoryListContainer {
+    width: 100%;
+}
+
+.categoryListTable {
+    border-collapse: collapse;
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.categoryListTable td {
+    font-family: "Comic Sans MS", serif;
+    font-size: 160%;
+    padding: 16px 0;
+}
+
+.categoryListTable tr {
+    border-bottom: darkseagreen solid 3px;
+}
+
+.amountTd, .deleteTd {
+    text-align: center;
+}
+
+.deleteTd button {
+    font-size: 80%;
+    border-radius: 20px;
+    width: 60%;
+    border: cadetblue solid 2px;
+    color: darkcyan;
+}
+
+.deleteTd button:hover {
+    background-color: rgba(175, 238, 238);
+}
+
+.categoryListTableFirstRow td {
+    color: darkcyan;
+}

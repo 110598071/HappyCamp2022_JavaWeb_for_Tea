@@ -1,0 +1,13 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.innerContainer div {
+    border-bottom: grey solid 2px;
+    font-family: "Comic Sans MS", serif;
+    font-size: 120%;
+    letter-spacing: 3px;
+    color: dimgray;
+    margin-bottom: 20px;
+}

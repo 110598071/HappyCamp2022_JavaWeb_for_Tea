@@ -1,0 +1,69 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.titleDiv {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 180%;
+    font-family: "Comic Sans MS", serif;
+    letter-spacing: 3px;
+}
+
+.formTable {
+    margin: 20px auto;
+    width: 50%;
+    border-radius: 50px;
+    /*border-collapse: collapse;*/
+}
+
+.formTable td {
+    padding: 15px;
+}
+
+.firstCol {
+    font-size: 180%;
+    font-family: "Comic Sans MS", serif;
+    text-align: right;
+    color: darkcyan;
+}
+
+.formTable input, .formTable select, .formTable textarea {
+    font-family: "Comic Sans MS", serif;
+    font-size: 150%;
+    border-radius: 20px;
+    border: cadetblue solid 2px;
+    color: darkgoldenrod;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.formTable select {
+    width: 50%;
+}
+
+.formTable textarea {
+    height: 250px;
+    width: 100%;
+    resize: none;
+    padding: 12px;
+}
+
+.buttonDiv {
+    width: 50%;
+    margin: 0 auto;
+    text-align: right;
+}
+
+.buttonDiv button {
+    font-family: "Comic Sans MS", serif;
+    font-size: 130%;
+    border-radius: 20px;
+    width: 25%;
+    border: cadetblue solid 2px;
+}
+
+.buttonDiv button:hover {
+    background-color: rgba(175, 238, 238);
+}

@@ -1,0 +1,49 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.titleDiv {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 180%;
+    font-family: "Comic Sans MS", serif;
+    letter-spacing: 3px;
+}
+
+.formTable {
+    margin: 20px auto;
+    width: 50%;
+    border: seagreen solid 3px;
+    border-radius: 50px;
+    /*border-collapse: collapse;*/
+}
+
+.formTable td {
+    font-size: 180%;
+    font-family: "Comic Sans MS", serif;
+    padding: 20px;
+}
+
+.firstCol {
+    text-align: right;
+    color: darkcyan;
+}
+
+.buttonDiv {
+    width: 50%;
+    margin: 40px auto;
+    text-align: right;
+}
+
+.buttonDiv button {
+    font-family: "Comic Sans MS", serif;
+    font-size: 130%;
+    border-radius: 20px;
+    width: 30%;
+    border: cadetblue solid 2px;
+}
+
+.buttonDiv button:hover {
+    background-color: rgba(175, 238, 238);
+}
