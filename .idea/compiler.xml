@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="happycamp2022" />
         <module name="HappyCamp" />
+        <module name="HappyCamp2022_JavaWeb_for_Tea" />
       </profile>
     </annotationProcessing>
   </component>

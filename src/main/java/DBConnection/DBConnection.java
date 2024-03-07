@@ -5,10 +5,10 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBConnection {
-    private final String url = "jdbc:postgresql://140.124.184.222:5432/postgres";
-    private final String schema = "islab";
+    private final String url = "jdbc:postgresql://localhost/postgres";
+    private final String schema = "public";
     private final String user = "postgres";
-    private final String password = "islab1221";
+    private final String password = "ys1101";
 
     public Connection getConnection() {
         Connection conn = null;
